@@ -33,8 +33,8 @@ This Terraform configuration deploys a bastion host in AWS.
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/ibrahim9t5/terraform-ec2-config.git
+    cd terraform-ec2-config
     ```
 
 2.  **Configure AWS credentials:**
